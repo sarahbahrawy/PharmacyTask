@@ -1,0 +1,17 @@
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\bin\Debug\PharmacyTask.exe.config
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\bin\Debug\PharmacyTask.exe
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\bin\Debug\PharmacyTask.pdb
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.AddBranchForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.PharmacyForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.Properties.Resources.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.csproj.GenerateResource.cache
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.exe
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.pdb
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.AddCategoryForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.AddInStockForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.AvaliableCategoriesForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.BranchForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.MakeActionForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.PreviousActionsForm.resources
+C:\Users\Sara\source\repos\PharmacyTask\PharmacyTask\obj\Debug\PharmacyTask.ShowBranchesForm.resources
